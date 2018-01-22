@@ -8,5 +8,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
+    <div>
+      <!-- Top Navigation Starts -->
+      <nav>
+        <ul>
+          <li><!--logo--></li>
+        </ul>
+      </nav>
+    </div>
   </body>
 </html>
