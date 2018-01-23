@@ -7,14 +7,21 @@
     <meta name-"Keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
+<!-- ========== BODY COPY BEGINS HERE ========== -->
   <body>
-    <div>
-      <!-- Top Navigation Starts -->
+    <div class="tNav">
+      <!-- ====== Top Navigation Starts ===== -->
       <nav>
         <ul>
           <li><!--logo--></li>
         </ul>
       </nav>
+    </div>
+<!-- ========== MAIN COPY BEGINS HERE ========== -->
+    <div class="main">
+      <header>
+        <h2>My Blog</h2>
+      </header>
     </div>
   </body>
 </html>
