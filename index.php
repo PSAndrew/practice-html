@@ -19,9 +19,18 @@
     </div>
 <!-- ========== MAIN COPY BEGINS HERE ========== -->
     <div class="main">
-      <header>
-        <h2>My Blog</h2>
-      </header>
+      <!-- My Skills Section Starts -->
+      <div class="skills">
+        <h1><span>My Skills</span></h1>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>PHP</li>
+          <li>MySql</li>
+        </ul>
+      </div>
+      <!-- My Skills Section Ends -->
     </div>
   </body>
 </html>
