@@ -13,7 +13,12 @@
       <!-- ====== Top Navigation Starts ===== -->
       <nav>
         <ul>
-          <li><!--logo--></li>
+          <li><!--logo--><a href="#"></a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Design</a></li>
+          <li><a href="#">Web</a></li>
+          <!-- CONTACT SHOULD BE FORM IN FOOTER FOR NAME EMAIL AND INTEREST -->
+          <li><a href="#">Contact</a></li>
         </ul>
       </nav>
     </div>
