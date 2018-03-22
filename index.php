@@ -36,6 +36,45 @@
         </ul>
       </div>
       <!-- My Skills Section Ends -->
+      
+      <!-- My Schedule Section Starts -->
+      <div class="skills">
+        <h1><span>My Coding Schedule</span></h1>
+        <table>
+          <tr>
+            <th>Day</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+          </tr>
+          <tr>
+            <td>8:00 am - 8:30 pm</td>
+            <td class="selected">Learn</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>9:00 am - 10:00 pm</td>
+            <td class="selected">Practice</td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00 pm - 1:30 pm</td>
+            <td></td>
+            <td></td>
+            <td class="selected">Play</td>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <!-- My Schedule Section Ends -->
     </div>
   </body>
 </html>
